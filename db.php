@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "127.0.0.1:53447";
+$username = "azure";
+$password = "6#vWHD_$";
 $db = "dbshoppingcart";
 
 // Create connection
